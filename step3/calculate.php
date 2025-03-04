@@ -34,4 +34,3 @@ if (isset($_POST['name'], $_POST['weight'], $_POST['height'])) {
         'message' => 'Required data not received.'
     ]);
 }
-?>

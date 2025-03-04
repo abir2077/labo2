@@ -1,4 +1,4 @@
- $(document).ready(function(){
+$(document).ready(function(){
     $('#bmiForm').submit(function(e){
     e.preventDefault();
      // Validate inputs using jQuery
